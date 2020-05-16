@@ -1,0 +1,1 @@
+{"id":"71964626-d8d8-4bc0-8220-173db5008fa9","name":"emailVerification-taskform.frm","model":{"taskName":"emailVerification","processId":"Project.Userregistration","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
