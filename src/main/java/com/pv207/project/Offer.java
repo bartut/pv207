@@ -83,5 +83,10 @@ public class Offer implements java.io.Serializable {
 		this.dateFrom = dateFrom;
 		this.dateTo = dateTo;
 	}
+	
+	@Override
+	public String toString() {
+	    return "category="+this.category+";price="+this.price+";location="+this.location+";description="+this.description+";dateFrom="+this.dateFrom+";dateTo="+this.dateTo;
+	}
 
 }
