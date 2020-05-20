@@ -4,9 +4,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pv207</groupId>
   <artifactId>Project</artifactId>
-  <version>3.0.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>Project</name>
+  <name>Project_backup</name>
   <description>Our project to pv207</description>
   <dependencies>
     <dependency>
