@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pv207</groupId>
   <artifactId>Project</artifactId>
-  <version>1.1.2-SNAPSHOT</version>
+  <version>3.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>Project</name>
   <description>Our project to pv207</description>
